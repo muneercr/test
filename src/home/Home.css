@@ -1,0 +1,39 @@
+.imgDiv{
+    width: 802px;
+height: 768px;
+left: 0px;
+top: 0px;
+background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLXP0CBs5EVcMiC-yPjD1LANZs34Fzm9-KCF00z1u7Uwhc9dYaXuccqCgZPerkAb5V37s&usqp=CAU");
+
+}
+
+
+.loginPage{
+    position: absolute;
+width: 569px;
+height: 768px;
+left: 802px;
+top: 0px;
+
+}
+
+.logoDiv{
+position: absolute;
+overflow: hidden;
+width: 221px;
+height: 62px;
+left: 100px;
+top: 184px;
+background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeZt0VGYItzxc01T1L1-84lbl2Uhq7TilU1WnDpVZL&s");
+}
+
+.loginTxt{
+         
+position: absolute;
+overflow: hidden;
+width: 221px;
+height: 62px;
+left: 100px;
+top: 234px;
+
+}
